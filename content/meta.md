@@ -1,12 +1,10 @@
 ---
-name: Bui Quoc Khanh
 title: Senior Software Engineer
-email: bkdev98@gmail.com
-phone: +84-949840370
+email: dustin.do95@gmail.com
+phone: +84-979477635
 address: 'Ho Chi Minh City, Vietnam'
-website: buiquockhanh.com
-linkedin: linkedin.com/in/bkdev98
-github: github.com/bkdev98
+linkedin: linkedin.com/in/duongdev
+github: github.com/duongdev
 references:
   - name: Bui Thanh Khoa
     position: 'Chief Executive Officer at Innoteq Co., Ltd.'
@@ -145,5 +143,7 @@ skills:
   - title: Styled Components
   - title: Ant Design
   - title: Mongoose
+name: Do Cao Thuong Duong
+website: duong.work
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
