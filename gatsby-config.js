@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Bui Quoc Khanh`,
+    title: `Do Cao Thuong Duong`,
     description: `Senior Software Engineer`,
     author: `@bkdev98`,
   },
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Bui Quoc Khanh`,
-        short_name: `qckhnh`,
+        name: `Do Cao Thuong Duong`,
+        short_name: `duongdev`,
         start_url: `/`,
         background_color: `#EED4CD`,
         theme_color: `#EED4CD`,
@@ -43,14 +43,11 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-tinacms',
+      resolve: "gatsby-plugin-tinacms",
       options: {
-        plugins: [
-          `gatsby-tinacms-remark`,
-          `gatsby-tinacms-git`,
-        ],
+        plugins: [`gatsby-tinacms-remark`, `gatsby-tinacms-git`],
         sidebar: {
-          position: 'fixed',
+          position: "fixed",
           hidden: process.env.NODE_ENV === "production",
         },
       },
