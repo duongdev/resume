@@ -107,4 +107,4 @@ skills:
 name: Do Cao Thuong Duong
 website: duong.work
 ---
-Experienced full-stack developer with + years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
+Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
