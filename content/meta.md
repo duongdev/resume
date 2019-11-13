@@ -6,129 +6,90 @@ address: 'Ho Chi Minh City, Vietnam'
 linkedin: linkedin.com/in/duongdev
 github: github.com/duongdev
 references:
-  - name: Bui Thanh Khoa
-    position: 'Chief Executive Officer at Innoteq Co., Ltd.'
-    email: khoabt@innoteq.vn
-    phone: 0948091402
-  - name: Ngo Dang Ha An
-    position: General Manager at Hisoft JSC
-    email: an.ngo@hisoft.vn
-    phone: 0906782333
-  - name: Do Cao Thuong Duong
-    position: Founder & CTO at Targeek JSC
-    email: duong@targeek.io
-    phone: 0979477635
+  - name: Nguyen Phuoc Vinh
+    position: Founder & CEO at Targeek
+    email: vinh@targeek.io
+    phone: +84-346848118
+  - name: Bui Quoc Khanh
+    position: CTO at Innoteq Vietnam
+    email: bkdev98@gmail.com
+    phone: +84-949840370
+  - name: Do Le Minh Hien
+    position: Senior Developer at hasBrain
+    email: minhhien139@gmail.com
+    phone: +84-359451469
 workExperiences:
-  - title: Senior Software Engineer
-    companyName: Innoteq Vietnam
-    companyUrl: 'https://innoteq.vn'
-    time: 04/2018 - Present
+  - title: Chief Technology Officer
+    companyName: Targeek
+    companyUrl: 'https://targeek.io'
+    time: 10/2018 - Present
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
-      * Built from scratch an online Customer Relationship Management system for
-      companies at scales.
+      * Built from scratch a SaaS ERP & CRM system at scales that allows
+      multiple companies to trade with others.
 
-      * Developed and maintained a cross-platform Point of Sale solution,
-      including receipt and inventory management.
-
-      * Built several e-commerce systems for multiple client requirements using
-      MERN stack.
-
-      * Designed and developed a responsive & SEO optimized landing page system
-      for a real-estate company, using Gatsby and NetlifyCMS.
+      * Developed and maintained an eCommerce website for a chain of mechanical
+      equipment stores with an ERP, CRM, and supply chain management system.
 
       * Organized training workshops and seminars about React & NodeJS for
       internships.
+    description: >-
+      Lead a small team of talented developers to build a beautiful SaaS ERP &
+      CRM system.
   - title: Full-stack Developer
-    companyName: Hisoft JSC
-    companyUrl: 'https://hisoft.vn'
-    time: 11/2017 - 04/2018
+    companyName: Store Làm Mộc
+    companyUrl: 'https://storelammoc.vn'
+    time: 01/2016 - 10/2018
     location: 'Ho Chi Minh City, Vietnam'
-    description: >-
-      Design and develop a cross-platform mobile application for an existence
-      OMS system at QTSC.
-    detail: >-
+    description: Design and develop a multi-store eCommerce system.
+    detail: |-
+      * Responsive website using React, Redux, and React Apollo.
+      * Scalable REST API server using ExpressJS and Apollo Server.
+      * Real-time and full-featured management system that an SME needs.
       * Cross-platform mobile app using React Native & Redux.
-
-      * Design modern mobile UI for both Android and iOS with dark mode
-      supported.
-
-      * Working with real-time messaging, Google calendar API, optimistic UI,
-      localization and push notification.
-
-      * Develop additional backend using NodeJS, SocketIO and MongoDB.
+      * Worked with micro-service architecture.
   - title: Front-end Web Developer
-    companyName: Thich Lam Moc
-    companyUrl: 'https://storelammoc.vn/'
-    time: 03/2017 - 11/2017
+    companyName: ThinkIID
+    companyUrl: 'http://thinkiid.com'
+    time: 06/2016 - 09/2017
     location: 'Ho Chi Minh City, Vietnam'
-    description: >-
-      Develop UI for an e-commerce system to manage customers, suppliers,
-      agencies & products.
-    detail: |-
-      * Create the admin dashboard using MaterialUI and ReactJS.
-      * Working with microservice architecture.
+    description: Develop a responsive web app for data visualization.
+    detail: >-
+      * Created a responsive, server-side rendered website with React & Redux.
+
+      * Created a NodeJS RESTful API server that communicates with another
+      Python server.
+
+      * Real-time data visualization with socket.io.
+
+      * Data visualization using D3.js &  ChartJS.
+  - title: PHP & Node.js Developer
+    companyName: Seasoft IT Solutions
+    companyUrl: 'https://www.linkedin.com/company/seasoft-it-solutions/'
+    time: 12/2015 - 03/2016
+    location: 'Ho Chi Minh City, Vietnam'
+    description: Develop a bot that crawls data
+    detail: >-
+      * Developed a bot that crawls data from websites for Japanese based search
+      engine.
+
+      * Worked with Casper.JS
 projects:
-  - title: VisCRM
-    url: 'https://crm.innoteq.vn'
-    time: Present
+  - title: Guru ERP
+    url: 'https://guru.targeek.io'
+    time: Work-in-progress
     detail: >-
-      * Customer Relationship Management system for companies at scales.
+      * SaaS ERP system for SMEs.
 
-      * Used React and Ant Design for front-end and Express with Mongoose for
-      back-end.
-  - title: Innoteq POS
-    url: 'https://phanmemquanlytinhtien.com'
-    time: 2018 - 2019
-    detail: >-
-      * Cross-platform Point of Sale system for restaurants, coffee shops and
-      grocery stores.
-
-      * Managing invoice, customer & inventory.
-
-      * Android and iOS app for staffs to create invoices remotely.
-  - title: Frezh - Air quality tracker
-    url: 'https://frezh.org'
-    time: 10/2019
+      * Used React for web, React Native for universal mobile apps, Apollo for
+      GraphQL and Nest for serv
+  - title: Store Làm Mộc
+    url: 'https://storelammoc.vn'
+    time: 01/2016 - Present
     detail: |-
-      * Track air quality data all over the world in minimalist design.
-      * Made with Expo & used data from OpenAQ.
-      * Available on both Google Play and App Store.
-  - title: QTSC OMS
-    detail: >-
-      * Operations Management Suite mobile for Quang Trung Software City.
-
-      * Used React Native with real-time messaging, Google calendar API,
-      localization & push notification.
-    url: 'http://oms.qtsc.com.vn'
-    time: 11/2017 - 04/2018
-  - title: qckhnh.com
-    time: 2018 - present
-    url: 'https://qckhnh.com'
-    detail: |-
-      * My writings about tech and life.
-      * Used JAMStack (Gatsby & Netlify CMS).
-  - title: Cold Brew
-    url: 'https://coldbrewapp.com'
-    time: 04/2019
-    detail: |-
-      * Cross-platform mobile app for bill management.
-      * Using Google Vision API to process bill data.
-      * Split bill & share with friends.
-  - title: Ipeedy
-    time: '2017'
-    url: 'https://ipeedy.com'
-    detail: |-
-      * An Uber-like mobile app, create a market for small business.
-      * Built with React Native & GraphQL.
-  - detail: >-
-      * A React Native boilerplate with Expo, Redux, React Navigation and Styled
-      Components.
-
-      * My highest-star project on Github.
-    url: 'https://github.com/ipeedy/react-native-boilerplate'
-    title: React Native Boilerplate
-    time: '2017'
+      * eCommerce website.
+      * ERP & CRM system.
+      * Logistic & online-payment integrated.
 skills:
   - title: ReactJS
   - title: React Native
@@ -136,14 +97,14 @@ skills:
   - title: Redux
   - title: Electron
   - title: Expo
+  - title: Apollo
   - title: GraphQL
   - title: SocketIO
   - title: Gatsby
+  - title: NextJS
+  - title: NestJS
   - title: Express
-  - title: Styled Components
-  - title: Ant Design
-  - title: Mongoose
 name: Do Cao Thuong Duong
 website: duong.work
 ---
-Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
+Experienced full-stack developer with + years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
