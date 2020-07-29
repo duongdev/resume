@@ -76,13 +76,13 @@ workExperiences:
       * Worked with Casper.JS
 projects:
   - title: Guru ERP
-    url: 'https://guru.targeek.io'
+    url: 'https://guru.targeek.dev'
     time: Work-in-progress
     detail: >-
       * SaaS ERP system for SMEs.
 
       * Used React for web, React Native for universal mobile apps, Apollo for
-      GraphQL and Nest for serv
+      GraphQL and Nest for server. The whole project is written in TypeScript.
   - title: Store Làm Mộc
     url: 'https://storelammoc.vn'
     time: 01/2016 - Present
@@ -107,4 +107,4 @@ skills:
 name: Do Cao Thuong Duong
 website: duong.work
 ---
-Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
+Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in React, React Native, Node.js, TypeScript, GraphQL, MongoDB and Electron.
