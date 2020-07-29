@@ -76,13 +76,17 @@ workExperiences:
       * Worked with Casper.JS
 projects:
   - title: Guru ERP
-    url: 'https://guru.targeek.dev'
+    url: 'https://guruerp.vn'
     time: Work-in-progress
     detail: >-
       * SaaS ERP system for SMEs.
 
       * Used React for web, React Native for universal mobile apps, Apollo for
       GraphQL and Nest for server. The whole project is written in TypeScript.
+
+      * Role: CTO, Product Owner and Full-stack developer.
+
+      * Team size: 6
   - title: Store Làm Mộc
     url: 'https://storelammoc.vn'
     time: 01/2016 - Present
