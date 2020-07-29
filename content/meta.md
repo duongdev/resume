@@ -86,18 +86,49 @@ projects:
 
       * Role: CTO, Product Owner and Full-stack developer.
 
-      * Team size: 6
+      * Team size: 6.
+  - title: GeekSMS
+    url: 'https://github.com/targeek/geek-sms'
+    time: 11/2018
+    detail: |-
+      JavaScript SDK for SMS sending.
+
+      * Written in Typescript. 
+      * Works on Node.js, browsers, React native. 
+      * Supports eSMS.vn and more.
+  - title: moneylover-timo
+    url: 'https://github.com/duongdev/moneylover-timo'
+    time: 10/2017
+    detail: >-
+      Once upon a time, MoneyLover doesn't support transactions synchrozation
+      with Timo by VPBank. So I decided to write a script that crawls and syncs
+      transactions to keep my money tracked.
   - title: Store Làm Mộc
-    url: 'https://storelammoc.vn'
-    time: 01/2016 - Present
+    url: 'https://storelammoc.duong.work'
+    time: 01/2016 - 5/2020
     detail: |-
       * eCommerce website.
       * ERP & CRM system.
       * Logistic & online-payment integrated.
+      * Used React, React Native, TypeScript, MongoDB.
+      * Role: Project manager and Full-stack developer.
+      * Team size: 5.
+  - title: ThinkIID Data visualization
+    time: 06/2016 - 09/2017
+    detail: >-
+      Worked with a team of 2 to built an confidential tool to visualize the
+      machine-learning data using React, Redux, D3.js and ChartJS.
+  - title: Agency Revolution's Activity Monitor
+    detail: >-
+      Worked as an intern, first touches to React and Node.js. Built a
+      responsive website to track for microservice messagequeue and visualized
+      the data by drawing charts.
+    time: 10/2015 - 11/2015
 skills:
   - title: ReactJS
   - title: React Native
   - title: NodeJS
+  - title: TypeScript
   - title: Redux
   - title: Electron
   - title: Expo
@@ -111,4 +142,4 @@ skills:
 name: Do Cao Thuong Duong
 website: duong.work
 ---
-Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in React, React Native, Node.js, TypeScript, GraphQL, MongoDB and Electron.
+Experienced full-stack developer with + years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in React, React Native, Node.js, TypeScript, GraphQL, MongoDB and Electron.
