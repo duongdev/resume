@@ -74,12 +74,12 @@ workExperiences:
     companyUrl: 'https://www.linkedin.com/company/seasoft-it-solutions/'
     time: 12/2015 - 03/2016
     location: 'Ho Chi Minh City, Vietnam'
-    description: Develop a bot that crawls data
+    description: Built a search engine.
     detail: >-
-      * Developed a bot that crawls data from websites for Japanese based search
-      engine.
+      * Developed a bot that crawls data from websites for a Japanese based
+      search engine.
 
-      * Worked with Casper.JS
+      * Worked with Casper.JS.
 projects:
   - title: Guru ERP
     url: 'https://guruerp.vn'
