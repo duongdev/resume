@@ -36,6 +36,12 @@ workExperiences:
     description: >-
       Lead a small team of talented developers to build a beautiful SaaS ERP &
       CRM system.
+  - title: Teacher
+    companyName: KMIN Academy
+    companyUrl: 'https://kmin.edu.vn/'
+    time: 2019 - Present
+    location: 'Ho Chi Minh City, Vietnam'
+    description: Work as a partime teacher at React and Node.js online and offline courses.
   - title: Full-stack Developer
     companyName: Store Làm Mộc
     companyUrl: 'https://storelammoc.vn'
@@ -142,4 +148,4 @@ skills:
 name: Do Cao Thuong Duong
 website: duong.work
 ---
-Experienced full-stack developer with + years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in React, React Native, Node.js, TypeScript, GraphQL, MongoDB and Electron.
+Experienced full-stack developer with 5+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in React, React Native, Node.js, TypeScript, GraphQL, MongoDB and Electron.
